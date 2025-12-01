@@ -1,7 +1,8 @@
 # second test push to github
+hello!
 
 
-
+![alt text](testgit.png)
 
 # Markdown Cheat Sheet
 
