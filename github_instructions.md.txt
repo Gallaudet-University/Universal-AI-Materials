@@ -1,2 +1,7 @@
 git config --global user.name "Charmaine"
 git config --global user.email "charmaine.mendonsa@gallaudet.edu"
+
+---
+git add .
+git commit -m "Initial commit"
+git push 
