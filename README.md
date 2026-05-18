@@ -1,6 +1,6 @@
 ![](banner.png)
 
-# [AWARE-AI](https://www.rit.edu/nrtai/)
+# [Universal-AI NRT](https://gallaudet.edu/accessibility/universal-ai-nrt-at-gallaudet-university/)
 This repository belongs to the AWARE-AI community at RIT and contains links to select AWARE-AI program materials.
 
 Program website:  [Universal-AI NRT](https://gallaudet.edu/accessibility/universal-ai-nrt-at-gallaudet-university/) <br />
