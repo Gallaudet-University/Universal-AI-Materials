@@ -41,7 +41,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>1.</td>
      <td>Dataset Archive Submission Form</td>
-     <td><a href="Materials Archive/GIEI/testgit.png">Link</a></td>
+     <td><a href="https://github.com/Gallaudet-University/Universal-AI-Materials/tree/main/Materials%20Archieve/GIEI">Link</a></td>
   </tr>
    <tr>
 </table>
