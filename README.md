@@ -2,7 +2,7 @@
 hello!
 
 
-![alt text](testgit.png)
+![alt text](banner.png)
 
 # Markdown Cheat Sheet
 

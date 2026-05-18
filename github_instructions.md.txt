@@ -1,0 +1,2 @@
+git config --global user.name "Charmaine"
+git config --global user.email "charmaine.mendonsa@gallaudet.edu"
