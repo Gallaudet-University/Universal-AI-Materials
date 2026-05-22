@@ -7,25 +7,22 @@ Program website:  [Universal-AI NRT](https://gallaudet.edu/accessibility/univers
 
 For details please contact: <universal.ai.nrt@gallaudet.edu>
 
-Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1oroinBaEkBFr6Q
+Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGallaudet
 
 ## Table of contents
 
 ### Quick Links
 
-1. [AWARE-AI Dataset Archive](#aware-ai-database)
-2. [CHAI Seminar Series](#chai-seminar-series)
-3. [Coursework](#coursework)
-4. [Hackathon](#hackathon)
-5. [Internships](#internships)
-6. [Lab Rotations](#lab-rotations)
-7. [Mentor Cafe](#mentor-cafe)
-8. [MSI Visits](#msi-visits)
-9. [Multi-day Events](#multi-day-events)
-10. [Poster Presentation](#poster-presentation)
-11. [Roundtables on Advanced Topics](#roundtable)
-12. [Seed Funding](#seed-funding)
-13. [Workshops](#workshops)
+1. [Courseworks](#courseworks)
+2. [Poster Presentation](#poster-presentation)
+3. [Workshops](#workshops)
+4. [Multi-day Events](#multi-day-events)
+5. [Gallaudet Innovation and Entrepreneurship Institute (GIEI)](#GIEI)
+6. [GU Visits](#GU-Visits)
+7. [Multi-day Events](#multi-day-events)
+8. [Conferences-Meetings](#conferences-meetings)
+
+
 
 
 
