@@ -5,7 +5,7 @@ This repository belongs to the AWARE-AI community at RIT and contains links to s
 
 Program website:  [Universal-AI NRT](https://gallaudet.edu/accessibility/universal-ai-nrt-at-gallaudet-university/) <br />
 
-For details please contact: <awareainrt@rit.edu>
+For details please contact: <universal.ai.nrt@gallaudet.edu>
 
 Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1oroinBaEkBFr6Q
 
