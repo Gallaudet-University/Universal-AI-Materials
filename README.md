@@ -20,7 +20,7 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
 5. [Gallaudet Innovation and Entrepreneurship Institute (GIEI)](#GIEI)
 6. [GU Visits](#GU-Visits)
 7. [Multi-day Events](#multi-day-events)
-8. [Conferences-Meetings](#conferences-meetings)
+8. [Conferences](#conferences)
 
 
 
