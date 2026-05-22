@@ -26,246 +26,61 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
 
 
 
-### AWARE-AI Database
+## Coursework
 
 <table>
   <tr>
-    <th>S.No</th>
-    <th>Description</th>
-    <th>Links</th>
-  </tr>
-
-  <tr>
-    <td>1.</td>
-     <td>Dataset Archive Submission Form</td>
-     <td><a href="https://github.com/Gallaudet-University/Universal-AI-Materials/blob/main/Materials%20Archieve/GIEI/testgit.png">Link</a></td>
-  </tr>
-   <tr>
-</table>
-
-### CHAI Seminar Series
-
-<table>
-  <tr>
-    <th>S.No</th>
-    <th>Date</th>
-    <th>Speaker</th>
-    <th>Topics</th>
-    <th>Links</th>
-  </tr>
-
-  <tr>
-    <td>1.</td>
-    <td>02-23-2022</td>
-    <td>Yulia Tsvetkov</td>
-    <td>Towards Language Generation we can Trust</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/990997616b4e86af1c690766e6b172533dea2758/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-YuliaTsvetkov%5D_0222.pdf">Link</a></td>
-  </tr>
-
- <tr>
-    <td>2.</td>
-    <td>02-28-2022</td>
-    <td>Matus Telgarsky</td>
-    <td>Approximation, Optimization, and Generalization in Deep Networks</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/904a5b4bf5263a9efe3ad57d060f97ca15dd8778/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Matus%20Telgarsky%5D_0222.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>3.</td>
-    <td>03-14-2022</td>
-    <td>Celal Savur</td>
-    <td>A Physiological Computing System to Improve Human-Robot Collaboration by Using Human Comfort Index</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/700a1f8f4f99ea7492f9b7e6b8b572c74f1a60d2/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Celal_Savur%5D_0322.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>4.</td>
-    <td>03-21-2022</td>
-    <td>Adrian Stoica</td>
-    <td>On Telepresence, Telerobotics and Autonomy</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/73888b41e0a1e68553887e8f24fc829be42a50e6/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Adrian%20Stoica%5D_0322.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>5.</td>
-    <td>04-25-2022</td>
-    <td>Jason Corso</td>
-    <td>Me, AI; You, Human---Advances in Human-AI Cooperation</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/365b1ae8b37a6bb7921424ee4f7704783905e29c/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Jason_Corso%5D_0422.pdf">Link</a></td>
-  </tr>
-  
-  <tr>
-    <td>6.</td>
-    <td>09-12-2022</td>
-    <td>Ashique KhudaBukhsh</td>
-    <td>Natural Language Processing Methods to Interpret Political Polarization in News Media and User Responses</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/f9a40377d231c7a93c6f75f68ded9b277614ae7f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>7.</td>
-    <td>09-19-2022</td>
-    <td>Hai (Helen) Li</td>
-    <td>Brain-inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d5f699267d39499fd56769faddd2f815c00206db/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai%20(Helen)%20Li%5D_0922.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>8.</td>
-    <td>10-03-2022</td>
-    <td>Matthew Seita</td>
-    <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>9.</td>
-    <td>10-17-2022</td>
-    <td>Jhair Gallardo</td>
-    <td>Classifying Images By Combining Self-Supervised and Continual Learning</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/c5060b482a5df10c6576c18cbc46d73c2da583ca/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-J.Gallardo%5D_102222.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>10.</td>
-    <td>10-24-2022</td>
-    <td>Philip J Smith</td>
-    <td>Human-Automation Interaction: Making Brittle Technologies Useful</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7418225b5a2bac7a02238eb89971eb8005608102/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-P.J.Smith%5D_1022.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>11.</td>
-    <td>11-07-2022</td>
-    <td>Barbara Plank</td>
-    <td>Is Human Label Variation Really so Bad for AI?</td>
-    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>12.</td>
-    <td>02-20-2023</td>
-    <td>Rashmi Jha</td>
-    <td>Emerging Memory Devices and Their Applications in Neuromorphic Computing</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/16fae5201e42f38e367b297a9e00d73ea815cf79/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Rashmi%20Jha%5D_0223.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>13.</td>
-    <td>02-27-2023</td>
-    <td>Hitesh Sapkota</td>
-    <td>Adaptive Robust Evidential Optimization for Open Set Detection from Imbalanced Data</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/38ae0fbeecae0a5043686a3a184f0cb85db8ea47/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hitesh%20Sapkota%5D_0223.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>14.</td>
-    <td>03-27-2023</td>
-    <td>Zhiqiang Tao</td>
-    <td>Learning with Hypergradients</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/9379494c03bb582c50094a66db370043568b6162/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Zhiqiang%20Tao%5D_0323.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>15.</td>
-    <td>04-10-2023</td>
-    <td>Jinjun Xiong</td>
-    <td>The Human Side of AI: Envision how AI can Help Children with Speech and Language Service Needs</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/cb32c52184deb295b13642f9a932e423d34e41a3/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_JinjunXiong%5D_0423.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>16.</td>
-    <td>04-17-2023</td>
-    <td>Mark H. Chignell</td>
-    <td>Interactive Machine Learning: Building Effective and Ergonomic Human-AI Interaction</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/0fb1c736d738ae9551cdf928edcc269624e6a3c6/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Mark%20H%20Chignell%5D_0423.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>17.</td>
-    <td>04-24-2023</td>
-    <td>Ervine Zheng</td>
-    <td>Multimodal Machine Learning for Understanding Human Behavioral Data</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/f698c75487583d5ddceedb48ac0dfa5158bf684f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Ervine%20Zheng%5D_0423.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>18.</td>
-    <td>03-04-2024</td>
-    <td>Mahsa Mozaffari</td>
-    <td>Improving Reliability of Visual Question Answering Models</td>
-    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Mahsa%20Mozaffari%204March2024%5D.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>19.</td>
-    <td>03-25-2024</td>
-    <td>Ali Baheri</td>
-    <td>Evolving AI Decision-Making: From Safe Reinforcement Learning to Intelligent Systems with Language Models</td>
-    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Ali%20Baheri_25March2024%5D.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>20.</td>
-    <td>04-01-2024</td>
-    <td>Peter Sadowski</td>
-    <td>How AI is Accelerating Science</td>
-    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Peter%20Sadowski_1April2024%5D.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>21.</td>
-    <td>04-22-2024</td>
-    <td>Thomas Wiecki</td>
-    <td>Marketing Analytics 3.0: GenAI + Bayes</td>
-    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Thomas%20Wiecki_22April2024%5D.pdf">Link</a></td>
-  </tr>
-</table>
-
-### Coursework
-
-<table>
-  <tr>
-    <th>S.No</th>
-    <th>Date</th>
-    <th>Lecturer</th>
     <th>Coursework</th>
+    <th>Instructor</th>
     <th>Description</th>
     <th>Links</th>
   </tr>
 
    <tr>
-    <td>1.</td>
-    <td>08-21-2022</td>
-    <td>Esa Rantanen</td>
+    <td>AHC 695.01 – Special Topic</td>
+    <td>Raja Kushalnagar</td>
     <td>PSYC 719</td>
-    <td>Human Factors in Artificial Intelligence Syllabus - Fall 2022</td>
+    <td>Special topics courses address subject matter or content not already included in the existing curriculum.</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
   </tr>
 
-  <tr>
-    <td>2.</td>
-    <td>08-23-2022</td>
-    <td>Esa Rantanen</td>
-    <td>PSYC 719</td>
-    <td>Human Factors in Artificial Intelligence - Handout Archive</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Handout%20Archive%5D_0822.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>3.</td>
-    <td>10-30-2023</td>
-    <td>Esa Rantanen</td>
-    <td>PSYC 719</td>
-    <td>Human Factors in Artificial Intelligence Syllabus - Fall 2023</td>
-    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/Coursework/AWAREAI_%5BPSYC719%20Fall%202023%20Syllabus%5D.pdf">Link</a></td>
-  </tr>
-  </table>
 
 
-### Hackathon
+### Poster Presentation
 
 <table>
   <tr>
     <th>S.No</th>
     <th>Date</th>
-    <th>Location</th>
-    <th>Facilitator</th>
+    <th>Authors</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td>10-18-2022</td>
+    <td>Arianna Giguere, et al.</td>
+    <td>Multimodal modeling of driving behavior in the presence of distraction</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BMultimodal%20model%20of%20Driving%20Behaviour%5D_1022.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>NA</td>
+    <td>Cecilia Alm, et al.</td>
+    <td>NSF Research Traineeship Program</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BNSF%20Research%20Traineeship%20Program%5D_.pdf">Link</a></td>
+  </tr>
+
+### Workshops
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Workshop Name</th>
+    <th>Speakers/th>
     <th>Description</th>
     <th>Links</th>
   </tr>
@@ -289,33 +104,7 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
   </tr>
   </table>
 
-### Internships
 
-<table>
-  <tr>
-    <th>S.No</th>
-    <th>Form Type</th>
-    <th>Links</th>
-  </tr>
-
-  <tr>
-    <td>1.</td>
-     <td>Trainee Internship Status Survey</td>
-     <td><a href="Materials Archive/Internships/Trainee Internship Status Survey.pdf">Link</a></td>
-  </tr>
-
-   <tr>
-    <td>2.</td>
-    <td>Pre-internship Coaching Meeting</td>
-     <td><a href="Materials Archive/Internships/Pre-internshipCoachingMeeting.pdf">Link</a></td>
-  </tr>
-
-   <tr>
-    <td>3.</td>
-    <td>Partnership Confirmation Letter Template</td>
-     <td><a href="Materials Archive/Internships/PartnershipConfirmationLetterTemplate-Company.docx.pdf">Link</a></td>
-  </tr>
-</table>
 
 ### Lab Rotations
 
