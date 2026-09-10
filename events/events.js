@@ -13,6 +13,16 @@
 window.EVENTS = [
   // ---------- Upcoming / planned ----------
   {
+  title: "Guest Talk — Jane Doe",
+  start: "2026-10-14",              // YYYY-MM-DD
+  end: "2026-10-15",                // optional, for multi-day events
+  time: "2:00 – 3:00 PM",           // optional
+  location: "HMB W328, Gallaudet",  // optional
+  category: "talk",                 // talk | conference | recruitment | program | governance
+  description: "One or two sentences.",
+  link: "https://example.org"       // optional
+},
+  {
     title: "Open House & Participant Information Session",
     start: "2026-09-16",
     time: "11:00 AM – 12:00 Noon",
