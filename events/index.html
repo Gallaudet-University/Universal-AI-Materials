@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Universal AI NRT — Events</title>
+<meta name="description" content="Upcoming and past events of the NSF Universal AI NRT at Gallaudet University and RIT.">
+<style>
+  :root {
+    --bg: #f7f7f5;
+    --surface: #ffffff;
+    --text: #1a1a1a;
+    --muted: #5a5f66;
+    --line: #e2e3e0;
+    --accent: #0b4f8a;
+    --accent-soft: #e4eef7;
+    --past: #8a8f96;
+    --chip: #eef0ee;
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141516; --surface: #1e2022; --text: #ececea; --muted: #a2a7ad;
+      --line: #33363a; --accent: #7fb6ea; --accent-soft: #1f3245; --past: #7b8087; --chip: #2a2d31;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  header { border-bottom: 1px solid var(--line); background: var(--surface); }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 0 20px; }
+  header .wrap { padding-top: 32px; padding-bottom: 24px; }
+  .kicker { color: var(--accent); font-weight: 600; letter-spacing: .04em; text-transform: uppercase; font-size: .8rem; margin: 0 0 6px; }
+  h1 { margin: 0 0 8px; font-size: 2rem; line-height: 1.2; }
+  header p { margin: 0; color: var(--muted); max-width: 60ch; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 8px; align-items: center; }
+  .controls label { color: var(--muted); font-size: .9rem; margin-right: 4px; }
+  .chipbtn {
+    border: 1px solid var(--line); background: var(--chip); color: var(--text);
+    padding: 6px 12px; border-radius: 999px; font: inherit; font-size: .9rem; cursor: pointer;
+  }
+  .chipbtn[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .chipbtn:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  h2 { font-size: 1.25rem; margin: 32px 0 12px; display: flex; align-items: baseline; gap: 10px; }
+  h2 .count { color: var(--muted); font-weight: 400; font-size: .95rem; }
+  ol.events { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  .event {
+    display: grid; grid-template-columns: 96px 1fr; gap: 16px;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+  }
+  .event.past { opacity: .88; }
+  .date { text-align: center; border-right: 1px solid var(--line); padding-right: 12px; align-self: start; }
+  .date .m { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--accent); font-weight: 700; }
+  .past .date .m { color: var(--past); }
+  .date .d { font-size: 1.7rem; font-weight: 700; line-height: 1.1; }
+  .date .y { font-size: .78rem; color: var(--muted); }
+  .date .tbd { font-size: .8rem; font-weight: 600; color: var(--muted); line-height: 1.3; }
+  .body h3 { margin: 0 0 4px; font-size: 1.05rem; line-height: 1.3; }
+  .body h3 a { color: inherit; }
+  .meta { color: var(--muted); font-size: .9rem; margin: 0 0 4px; }
+  .meta span + span::before { content: " · "; }
+  .body p.desc { margin: 4px 0 0; font-size: .95rem; }
+  .cat {
+    display: inline-block; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em;
+    background: var(--accent-soft); color: var(--accent); border-radius: 4px; padding: 2px 7px; margin-left: 8px; vertical-align: middle; font-weight: 600;
+  }
+  .empty { color: var(--muted); font-style: italic; }
+  footer { margin: 48px 0 32px; color: var(--muted); font-size: .85rem; }
+  footer a { color: var(--accent); }
+  @media (max-width: 520px) {
+    .event { grid-template-columns: 72px 1fr; gap: 12px; }
+    .date .d { font-size: 1.4rem; }
+    h1 { font-size: 1.6rem; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <p class="kicker">NSF NRT-IPP · DGE-2440601</p>
+    <h1>Universal AI NRT — Events</h1>
+    <p>Talks, conferences, recruitment sessions, and program activities of the Universal AI National Research Traineeship at Gallaudet University and Rochester Institute of Technology.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="controls" role="group" aria-label="Filter by category">
+    <label>Show:</label>
+    <button class="chipbtn" data-cat="all" aria-pressed="true">All</button>
+    <button class="chipbtn" data-cat="talk" aria-pressed="false">Talks</button>
+    <button class="chipbtn" data-cat="conference" aria-pressed="false">Conferences</button>
+    <button class="chipbtn" data-cat="recruitment" aria-pressed="false">Recruitment</button>
+    <button class="chipbtn" data-cat="program" aria-pressed="false">Program</button>
+    <button class="chipbtn" data-cat="governance" aria-pressed="false">Governance</button>
+  </div>
+
+  <section aria-labelledby="upcoming-h">
+    <h2 id="upcoming-h">Upcoming <span class="count" id="upcoming-count"></span></h2>
+    <ol class="events" id="upcoming"></ol>
+  </section>
+
+  <section aria-labelledby="past-h">
+    <h2 id="past-h">Past <span class="count" id="past-count"></span></h2>
+    <ol class="events" id="past"></ol>
+  </section>
+
+  <footer>
+    Program website: <a href="https://gallaudet.edu/accessibility/universal-ai-nrt-at-gallaudet-university/">gallaudet.edu/accessibility/universal-ai-nrt-at-gallaudet-university</a>.
+    Supported by the National Science Foundation under award DGE-2440601.
+    To add or correct an event, edit <code>events.js</code> in the repository.
+  </footer>
+</main>
+
+<script src="events.js"></script>
+<script>
+(function () {
+  const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const LONG = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const CAT_LABEL = { talk: "Talk", conference: "Conference", recruitment: "Recruitment", program: "Program", governance: "Governance" };
+
+  const parse = s => { const [y,m,d] = s.split("-").map(Number); return new Date(y, m-1, d); };
+  const today = new Date(); today.setHours(0,0,0,0);
+
+  function rangeText(ev) {
+    const a = parse(ev.start);
+    if (!ev.end) return `${LONG[a.getMonth()]} ${a.getDate()}, ${a.getFullYear()}`;
+    const b = parse(ev.end);
+    if (a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth())
+      return `${LONG[a.getMonth()]} ${a.getDate()}–${b.getDate()}, ${a.getFullYear()}`;
+    if (a.getFullYear() === b.getFullYear())
+      return `${LONG[a.getMonth()]} ${a.getDate()} – ${LONG[b.getMonth()]} ${b.getDate()}, ${a.getFullYear()}`;
+    return `${LONG[a.getMonth()]} ${a.getDate()}, ${a.getFullYear()} – ${LONG[b.getMonth()]} ${b.getDate()}, ${b.getFullYear()}`;
+  }
+
+  function esc(s) { return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+  function render(ev, isPast) {
+    const li = document.createElement("li");
+    li.className = "event" + (isPast ? " past" : "");
+    li.dataset.cat = ev.category || "other";
+    const a = parse(ev.start);
+    const dateBlock = ev.tbd
+      ? `<div class="tbd">${esc(ev.season || "Date TBD")}<br><span style="font-weight:400">date TBD</span></div>`
+      : `<div class="m">${MONTHS[a.getMonth()]}</div><div class="d">${a.getDate()}</div><div class="y">${a.getFullYear()}</div>`;
+    const title = ev.link ? `<a href="${esc(ev.link)}">${esc(ev.title)}</a>` : esc(ev.title);
+    const cat = ev.category ? `<span class="cat">${esc(CAT_LABEL[ev.category] || ev.category)}</span>` : "";
+    const meta = [];
+    if (!ev.tbd) meta.push(`<time datetime="${esc(ev.start)}">${esc(rangeText(ev))}</time>`);
+    if (ev.time) meta.push(esc(ev.time));
+    if (ev.location) meta.push(esc(ev.location));
+    li.innerHTML = `
+      <div class="date" aria-hidden="true">${dateBlock}</div>
+      <div class="body">
+        <h3>${title}${cat}</h3>
+        <p class="meta">${meta.map(m => `<span>${m}</span>`).join("")}</p>
+        ${ev.description ? `<p class="desc">${esc(ev.description)}</p>` : ""}
+      </div>`;
+    return li;
+  }
+
+  const events = (window.EVENTS || []).slice();
+  const endOf = ev => parse(ev.end || ev.start);
+  const upcoming = events.filter(ev => endOf(ev) >= today).sort((x,y) => parse(x.start) - parse(y.start));
+  const past = events.filter(ev => endOf(ev) < today).sort((x,y) => parse(y.start) - parse(x.start));
+
+  const upEl = document.getElementById("upcoming"), pastEl = document.getElementById("past");
+  upcoming.forEach(ev => upEl.appendChild(render(ev, false)));
+  past.forEach(ev => pastEl.appendChild(render(ev, true)));
+
+  function applyFilter(cat) {
+    let nu = 0, np = 0;
+    document.querySelectorAll("#upcoming .event").forEach(li => { const show = cat === "all" || li.dataset.cat === cat; li.hidden = !show; if (show) nu++; });
+    document.querySelectorAll("#past .event").forEach(li => { const show = cat === "all" || li.dataset.cat === cat; li.hidden = !show; if (show) np++; });
+    document.getElementById("upcoming-count").textContent = nu ? `(${nu})` : "";
+    document.getElementById("past-count").textContent = np ? `(${np})` : "";
+    toggleEmpty(upEl, nu, "No upcoming events in this category — check back soon.");
+    toggleEmpty(pastEl, np, "No past events in this category.");
+  }
+  function toggleEmpty(list, n, msg) {
+    let e = list.nextElementSibling;
+    if (!e || !e.classList.contains("empty")) { e = document.createElement("p"); e.className = "empty"; list.after(e); }
+    e.textContent = msg; e.hidden = n > 0;
+  }
+
+  document.querySelectorAll(".chipbtn").forEach(btn => btn.addEventListener("click", () => {
+    document.querySelectorAll(".chipbtn").forEach(b => b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
+    applyFilter(btn.dataset.cat);
+  }));
+  applyFilter("all");
+})();
+</script>
+</body>
+</html>
