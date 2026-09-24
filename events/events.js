@@ -13,7 +13,7 @@
 window.EVENTS = [
   // ---------- Upcoming / planned ----------
   {
-  title: "Guest Talk — Jane Doe",
+  title: "Guest Talk — Charmaine Mendonsa",
   start: "2026-10-14",              // YYYY-MM-DD
   end: "2026-10-15",                // optional, for multi-day events
   time: "2:00 – 3:00 PM",           // optional
