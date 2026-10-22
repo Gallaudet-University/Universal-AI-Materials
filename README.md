@@ -32,7 +32,7 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
   <tr>
     <th>Coursework</th>
     <th>Instructor</th>
-    <th>Description</th>
+    <th>Semester and Year</th>
     <th>Links</th>
   </tr>
 
@@ -52,6 +52,13 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
   </tr>
 
+   <tr>
+    <td>AHC 595.01 – Special Topic</td>
+    <td>Scott Van Nice</td>
+    <td>Fall 2026</td>
+    <td>Special topics courses address subject matter or content not already included in the existing curriculum.</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
+  </tr>
 
 ### Poster Presentation
 
