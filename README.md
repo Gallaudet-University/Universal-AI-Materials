@@ -39,11 +39,18 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
    <tr>
     <td>AHC 695.01 – Special Topic</td>
     <td>Raja Kushalnagar</td>
-    <td>PSYC 719</td>
+    <td>Spring 2026</td>
     <td>Special topics courses address subject matter or content not already included in the existing curriculum.</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
   </tr>
 
+   <tr>
+    <td>AHC 695.01 – Special Topic</td>
+    <td>Raja Kushalnagar</td>
+    <td>Fall 2026</td>
+    <td>Special topics courses address subject matter or content not already included in the existing curriculum.</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
+  </tr>
 
 
 ### Poster Presentation
