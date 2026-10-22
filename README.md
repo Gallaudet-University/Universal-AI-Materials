@@ -13,7 +13,7 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
 
 ### Quick Links
 
-1. [Courseworks](#courseworks)
+1. [Courses](#courses)
 2. [Poster Presentation](#poster-presentation)
 3. [Workshops](#workshops)
 4. [Multi-day Events](#multi-day-events)
@@ -26,7 +26,7 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
 
 
 
-## Coursework
+## Courses
 
 <table>
   <tr>
