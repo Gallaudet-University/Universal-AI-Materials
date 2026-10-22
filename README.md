@@ -61,6 +61,14 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
   </tr>
 
+   <tr>
+    <td>AHC 695.01 – Deaf HAI</td>
+    <td>Abraham Glasser</td>
+    <td>Spring 2027</td>
+    <td>Deaf HAI</td>
+    <td>Link</td>
+  </tr>
+
 ### Poster Presentation
 
 <table>
