@@ -33,6 +33,7 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
     <th>Coursework</th>
     <th>Instructor</th>
     <th>Semester and Year</th>
+    <th>Course description</th>
     <th>Links</th>
   </tr>
 
