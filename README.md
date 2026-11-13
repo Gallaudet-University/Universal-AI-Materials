@@ -1,7 +1,6 @@
 ![](banner.png)
 
 # [Universal-AI NRT](https://gallaudet.edu/accessibility/universal-ai-nrt-at-gallaudet-university/)
-This repository belongs to the AWARE-AI community at RIT and contains links to select AWARE-AI program materials.
 
 Program website:  [Universal-AI NRT](https://gallaudet.edu/accessibility/universal-ai-nrt-at-gallaudet-university/) <br />
 
@@ -21,10 +20,6 @@ Link to the Univerisal-AI Video Archive: https://www.youtube.com/@UniversalAIGal
 6. [GU Visits](#GU-Visits)
 7. [Multi-day Events](#multi-day-events)
 8. [Conferences](#conferences)
-
-
-
-
 
 ## Courses
 
